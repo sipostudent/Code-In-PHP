@@ -20,29 +20,24 @@
     Your output will look something like this:
 */
 
-for ($i = 1;$i <= 100;$i++)
-{
+for ($i = 1;$i <= 30;$i++) {
 
-    if ($i % 3 == 0 && $i % 5 == 0)
-    {
+    if ($i % 3 == 0 && $i % 5 == 0) {
 
         echo 'FIZZBUZZ';
 
     }
-    elseif ($i % 3 == 0)
-    {
+    elseif ($i % 3 == 0) {
 
         echo 'FIZZ';
 
     }
-    elseif ($i % 5 == 0)
-    {
+    elseif ($i % 5 == 0) {
 
         echo 'BUZZ';
 
     }
-    else
-    {
+    else {
 
         echo $i;
 
