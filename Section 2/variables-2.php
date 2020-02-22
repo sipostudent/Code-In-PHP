@@ -1,9 +1,18 @@
 <?php
 
-// Echo and Print - how to view PHP output
+/*
+    PHP Basics
+    ==========
+*/
+
+/*
+    Echo and Print - how to view PHP output
+    ---------------------------------------
+*/
 
 $firstName = "Sipo";
 
+// Print variable to screen
 echo $firstName;
 
 // Line break
@@ -17,5 +26,6 @@ echo "<br>";
 
 $b = TRUE;
 
+// Print variable to screen
 print $b;
 
