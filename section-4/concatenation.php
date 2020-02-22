@@ -21,4 +21,4 @@ $width = 5;
 $rectangle = $length * $width;
 
 echo "The area of a rectangle is " .  $rectangle . " units squared.";
-?> 
+?>
