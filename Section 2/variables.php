@@ -1,11 +1,18 @@
 <?php
 
-$a = 2;
+// Strings
+$firstName = "Sipo is a man";
 
-$b = 3;
+// Integers
+$a = 1;
+$b = 0;
+$d = -5;
+$length = 3;
 
-$firstName = "Sipo";
+// Booleans
+$a = TRUE;
+$b = FALSE;
 
-$number = 12.345;
-
-$date = "2005/12/12";
+// Floating point numbers
+$e = 12.24;
+$f =  -1.4321;
