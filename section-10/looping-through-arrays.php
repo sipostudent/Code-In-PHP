@@ -1,7 +1,7 @@
 <?php
 
 /*
-    How to create abd use basic ARRAYS and array functions
+    How to create and use basic ARRAYS and array functions
     ======================================================
 */
 
